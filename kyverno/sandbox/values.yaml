@@ -1,0 +1,2 @@
+kyverno:
+  replicaCount: 3
