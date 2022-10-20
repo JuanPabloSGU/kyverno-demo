@@ -1,2 +1,2 @@
 ignore/
-k8s/kyverno-policies-demo/*
+k8s/kyverno-test-demo/*
